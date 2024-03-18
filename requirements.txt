@@ -1,7 +1,7 @@
 soundfile==0.10.3.post1
 pygame
 PyYAML==6.0
-scipy==1.7.3
+scipy==1.11.1
 scikit-learn==1.0.2
 librosa==0.8.0
 matplotlib==3.5.3
